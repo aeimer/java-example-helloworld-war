@@ -1,6 +1,6 @@
 # Example Hello World WAR-File
-I saw [this](http://centerkey.com/jboss/) post and build an example war file from it to test a JBOSS.
 
+Here little war file if you want to test your JBOSS.
 The included war-file ist build with Java 21 temurin.
 
 ## How to use?
